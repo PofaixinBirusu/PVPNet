@@ -1,4 +1,6 @@
 # PVPNet
+参数下载地址：https://pan.baidu.com/s/1zOlLZPs9ox-PKaujNF0DHA  提取码：8gay
+### 实验结果
 Classification in modelnet40 dataset
 | Method | Input | Points | Accuracy |
 | :-----| :----- | :----- | :----- |
