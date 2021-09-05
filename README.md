@@ -29,4 +29,4 @@ Part segmentation results on ShapeNet part dataset. Metric is mIoU(%) on points
 
 Completion method
 
-![1](https://github.com/PofaixinBirusu/PVPNet/images/PVPNet-Completion.png)
+![1](https://github.com/PofaixinBirusu/PVPNet/blob/main/images/PVPNet-Completion.png)
