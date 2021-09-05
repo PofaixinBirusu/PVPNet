@@ -26,3 +26,7 @@ Part segmentation results on ShapeNet part dataset. Metric is mIoU(%) on points
 | LocalFeatureNet | 84.3 | <b>86.1</b> |73.0 |54.9 |<b>77.4</b> |88.8 |55.0 |90.6 |86.5 |75.2 |<b>96.1</b> |57.3 |91.7 |<b>83.1</b> |53.9 |72.5 |<b>83.8</b> | 4 |
 | DGCNN | 85.1 | 84.2 |<b>83.7</b> |84.4 |77.1 |90.9 |<b>78.5</b> |<b>91.5</b> |87.3 |82.9 |96.0 |67.8 |93.3 |82.6 |<b>59.7</b> |75.5 |82.0 | 4 |
 | <b>PVPNet (ours)</b> | <b>85.4</b> | 83.0 |81.9 |<b>90.9</b> |<b>77.4</b> |<b>91.5</b> |72.5 |89.7 |<b>88.4</b> |<b>85.9</b> |95.8 |61.0 |93.6 |81.9 |55.1 |71.2 |82.8 | <b>6</b> |
+
+Completion method
+
+![1](https://github.com/PofaixinBirusu/PVPNet/images/PVPNet-Completion.png)
